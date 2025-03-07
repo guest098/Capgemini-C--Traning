@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ME1QI0p2/5Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shanmuk\\Downloads\\CalculatorFrontend\\CalculatorFrontend\\CalculatorFrontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shanmuk\\.nuget\\packages\\system.io.pipelines\\9.0.2\\system.io.pipelines.9.0.2.nupkg.sha512",
+    "C:\\Users\\shanmuk\\.nuget\\packages\\system.net.http.json\\9.0.2\\system.net.http.json.9.0.2.nupkg.sha512",
+    "C:\\Users\\shanmuk\\.nuget\\packages\\system.text.encodings.web\\9.0.2\\system.text.encodings.web.9.0.2.nupkg.sha512",
+    "C:\\Users\\shanmuk\\.nuget\\packages\\system.text.json\\9.0.2\\system.text.json.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

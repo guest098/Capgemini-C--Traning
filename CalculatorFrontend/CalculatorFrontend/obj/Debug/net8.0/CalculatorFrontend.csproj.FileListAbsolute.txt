@@ -1,0 +1,6 @@
+C:\Users\shanmuk\Downloads\CalculatorFrontend\CalculatorFrontend\obj\Debug\net8.0\CalculatorFrontend.csproj.AssemblyReference.cache
+C:\Users\shanmuk\Downloads\CalculatorFrontend\CalculatorFrontend\obj\Debug\net8.0\CalculatorFrontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shanmuk\Downloads\CalculatorFrontend\CalculatorFrontend\obj\Debug\net8.0\CalculatorFrontend.AssemblyInfoInputs.cache
+C:\Users\shanmuk\Downloads\CalculatorFrontend\CalculatorFrontend\obj\Debug\net8.0\CalculatorFrontend.AssemblyInfo.cs
+C:\Users\shanmuk\Downloads\CalculatorFrontend\CalculatorFrontend\obj\Debug\net8.0\CalculatorFrontend.csproj.CoreCompileInputs.cache
+C:\Users\shanmuk\Downloads\CalculatorFrontend\CalculatorFrontend\obj\Debug\net8.0\CalculatorFrontend.MvcApplicationPartsAssemblyInfo.cache
