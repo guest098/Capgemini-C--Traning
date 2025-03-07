@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shanmuk\\Downloads\\Calculater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CB0E12-4A76-4FBD-BB28-DF6DB1E36117}|Calculater\\Calculater.csproj|c:\\users\\shanmuk\\downloads\\calculater\\calculater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CB0E12-4A76-4FBD-BB28-DF6DB1E36117}|Calculater\\Calculater.csproj|solutionrelative:calculater\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CB0E12-4A76-4FBD-BB28-DF6DB1E36117}|Calculater\\Calculater.csproj|c:\\users\\shanmuk\\downloads\\calculater\\calculater\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CB0E12-4A76-4FBD-BB28-DF6DB1E36117}|Calculater\\Calculater.csproj|solutionrelative:calculater\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CB0E12-4A76-4FBD-BB28-DF6DB1E36117}|Calculater\\Calculater.csproj|c:\\users\\shanmuk\\downloads\\calculater\\calculater\\models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CB0E12-4A76-4FBD-BB28-DF6DB1E36117}|Calculater\\Calculater.csproj|solutionrelative:calculater\\models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CB0E12-4A76-4FBD-BB28-DF6DB1E36117}|Calculater\\Calculater.csproj|c:\\users\\shanmuk\\downloads\\calculater\\calculater\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2CB0E12-4A76-4FBD-BB28-DF6DB1E36117}|Calculater\\Calculater.csproj|solutionrelative:calculater\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CB0E12-4A76-4FBD-BB28-DF6DB1E36117}|Calculater\\Calculater.csproj|c:\\users\\shanmuk\\downloads\\calculater\\calculater\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CB0E12-4A76-4FBD-BB28-DF6DB1E36117}|Calculater\\Calculater.csproj|solutionrelative:calculater\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\shanmuk\\Downloads\\Calculater\\Calculater\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Calculater\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\shanmuk\\Downloads\\Calculater\\Calculater\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Calculater\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:38:04.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shanmuk\\Downloads\\Calculater\\Calculater\\Program.cs",
+              "RelativeDocumentMoniker": "Calculater\\Program.cs",
+              "ToolTip": "C:\\Users\\shanmuk\\Downloads\\Calculater\\Calculater\\Program.cs",
+              "RelativeToolTip": "Calculater\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:36:56.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shanmuk\\Downloads\\Calculater\\Calculater\\appsettings.json",
+              "RelativeDocumentMoniker": "Calculater\\appsettings.json",
+              "ToolTip": "C:\\Users\\shanmuk\\Downloads\\Calculater\\Calculater\\appsettings.json",
+              "RelativeToolTip": "Calculater\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T19:36:33.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shanmuk\\Downloads\\Calculater\\Calculater\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Calculater\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\shanmuk\\Downloads\\Calculater\\Calculater\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Calculater\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:33:46.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\shanmuk\\Downloads\\Calculater\\Calculater\\Models\\Calculation.cs",
+              "RelativeDocumentMoniker": "Calculater\\Models\\Calculation.cs",
+              "ToolTip": "C:\\Users\\shanmuk\\Downloads\\Calculater\\Calculater\\Models\\Calculation.cs",
+              "RelativeToolTip": "Calculater\\Models\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:31:31.46Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

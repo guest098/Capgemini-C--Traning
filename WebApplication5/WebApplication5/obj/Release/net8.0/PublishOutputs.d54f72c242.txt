@@ -1,0 +1,7 @@
+C:\Users\shanmuk\Downloads\WebApplication5\WebApplication5\obj\Release\net8.0\PubTmp\Out\WebApplication5.exe
+C:\Users\shanmuk\Downloads\WebApplication5\WebApplication5\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\shanmuk\Downloads\WebApplication5\WebApplication5\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\shanmuk\Downloads\WebApplication5\WebApplication5\obj\Release\net8.0\PubTmp\Out\WebApplication5.dll
+C:\Users\shanmuk\Downloads\WebApplication5\WebApplication5\obj\Release\net8.0\PubTmp\Out\WebApplication5.deps.json
+C:\Users\shanmuk\Downloads\WebApplication5\WebApplication5\obj\Release\net8.0\PubTmp\Out\WebApplication5.runtimeconfig.json
+C:\Users\shanmuk\Downloads\WebApplication5\WebApplication5\obj\Release\net8.0\PubTmp\Out\WebApplication5.pdb
